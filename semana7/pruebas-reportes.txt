@@ -1,0 +1,20 @@
+Cuando se realiza una consulta a la ruta **GET /reportes**, el servidor devuelve todos los reportes 
+almacenados en el arreglo `reportes` en formato JSON. Esta ruta permite consultar la información 
+registrada previamente mediante la ruta **POST /reportes**. La respuesta contiene una lista de 
+objetos, donde cada objeto representa un reporte con su identificador, tipo y descripción.
+
+Ejemplo de respuesta al consultar GET /reportes:
+
+json
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+
+En este ejemplo, el servidor devuelve un arreglo con un reporte registrado. El reporte tiene el 
+identificador 1, pertenece a la categoría "Infraestructura" y describe un daño en el alumbrado 
+público. La ruta GET solo consulta y muestra la información, sin modificar los datos almacenados.

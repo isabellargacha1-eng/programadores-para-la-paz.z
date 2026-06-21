@@ -1,0 +1,6 @@
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una 
+plataforma tecnológica porque esto permite organizar la información de manera clara y accesible. 
+Además, facilita el seguimiento de los problemas identificados, ayuda a tomar decisiones basadas en 
+datos y promueve la participación ciudadana. También contribuye a la transparencia, ya que los 
+reportes pueden ser consultados y verificados por diferentes personas, evitando la pérdida de 
+información y favoreciendo la búsqueda de soluciones para las necesidades de la comunidad.
